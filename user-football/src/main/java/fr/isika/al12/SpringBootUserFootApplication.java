@@ -1,13 +1,13 @@
-package fr.isika.al12.userfootball;
+package fr.isika.al12;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserFootballApplication {
+public class SpringBootUserFootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserFootballApplication.class, args);
+		SpringApplication.run(SpringBootUserFootApplication.class, args);
 	}
 
 }
